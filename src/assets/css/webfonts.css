@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "funhouseregular";
+  src: url("../fonts/funhouse-webfont.eot");
+  src: url("../fonts/funhouse-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/funhouse-webfont.woff2") format("woff2"), url("../fonts/funhouse-webfont.woff") format("woff"), url("../fonts/funhouse-webfont.ttf") format("truetype"), url("../fonts/funhouse-webfont.svg#funhouseregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "monologfree";
+  src: url("../fonts/monolog-free-webfont.eot");
+  src: url("../fonts/monolog-free-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/monolog-free-webfont.woff2") format("woff2"), url("../fonts/monolog-free-webfont.woff") format("woff"), url("../fonts/monolog-free-webfont.ttf") format("truetype"), url("../fonts/monolog-free-webfont.svg#monologfree") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/*# sourceMappingURL=webfonts.css.map */
